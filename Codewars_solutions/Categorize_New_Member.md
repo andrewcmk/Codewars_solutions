@@ -22,6 +22,7 @@ Output will consist of a list of string values (in Haskell: Open or Senior) stat
 </br>
 
 <h4>solution</h4>
+
 ```python
 def openOrSenior(data):
     list = []
@@ -31,5 +32,4 @@ def openOrSenior(data):
         else: list.append('Open')
     return list
 ```
-</br>
 
